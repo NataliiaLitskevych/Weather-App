@@ -2,7 +2,11 @@
 
 A sleek and responsive weather application built with vanilla **JavaScript** and **OpenWeatherMap API**. This app provides real-time weather data and dynamically changes its theme based on current conditions.
 
-<img src="1.png" width="800" />
+---
+
+## 📸 Preview
+
+![Weather App Preview](WeatherApp.png)
 
 👉 <a href="https://bestrecipesearch.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
@@ -23,7 +27,8 @@ A sleek and responsive weather application built with vanilla **JavaScript** and
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/NataliiaLitskevych/Weather.git
+```
 
 ### 2. API Key Setup
 * **Placement**: Ensure your API key is correctly placed in the `script.js` file inside the `api` object.
@@ -38,4 +43,7 @@ git clone [https://github.com/your-username/your-repo-name.git](https://github.c
 
 * **index.html** — The main entry point of the application.
 * **style.css** — Contains custom styles and dynamic gradient backgrounds.
-* **script.js** — Contains all the logic for fetching and displaying weather data.   
+* **script.js** — Contains all the logic for fetching and displaying weather data.
+
+---
+Developed by Nataliia Litskevych
