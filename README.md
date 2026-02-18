@@ -8,7 +8,7 @@ A sleek and responsive weather application built with vanilla **JavaScript** and
 
 ![Weather App Preview](WeatherApp.png)
 
-👉 <a href="https://bestrecipesearch.netlify.app/" target="_blank">
+👉 <a href="https://weather-app-nataliia-litskevych.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
 </a>
 
